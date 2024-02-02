@@ -22,7 +22,7 @@
 - **Frontend:** HTML, CSS
 - **Database:** SQL, JDBC
 - **API :** Rest API
-- **Devops :**AWS, CI/CD, Docker, Kubernetes 
+- **Devops :** AWS, CI/CD, Docker, Kubernetes 
 - **Version Control:** Git
 <h3 align="left">Connect with me:</h3>
 <p align="left">
