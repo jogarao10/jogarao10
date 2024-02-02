@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jogarao Korrayi</h1>
-<div align="center"> <img src="https://github.com/jogarao10/myprofile/blob/main/java1.jpg"> </div>
-<h3 align="center">A passionate full stack developer</h3>
+<!-- <div align="center"> <img src="https://github.com/jogarao10/myprofile/blob/main/java1.jpg"> </div> -->
+<h3 align="center">I am a passionate full stack developer, I have completed my full stack java developer training </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jogarao10&label=Profile%20views&color=0e75b6&style=flat" alt="jogarao10" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Java**
+- 🌱 I’m currently learning **E-COMMERCE WEBSITE DESIGN**
 
-- 💬 Ask me about **Full Stack Java**
+- 💬 Ask me about **Full Stack Java Development**
 - 👨‍💻 All of my projects are available at [https://github.com/jogarao10]
 
 - 📫 How to reach me **jogaraokorrayi107@gmail.com**
