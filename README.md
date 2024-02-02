@@ -18,9 +18,11 @@
 ## 🛠️ Tech Stack
 
 - **Languages:** Java, JavaScript
-- **Frameworks:** Spring Boot, React
+- **Frameworks:** Spring Boot, ReactJS, Hibernate
 - **Frontend:** HTML, CSS
-- **Database:** SQL
+- **Database:** SQL, JDBC
+- **API :** Rest API
+- **Devops :**AWS, CI/CD, Docker, Kubernetes 
 - **Version Control:** Git
 <h3 align="left">Connect with me:</h3>
 <p align="left">
