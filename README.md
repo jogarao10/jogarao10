@@ -15,7 +15,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/jogarao10]
 - 📫 How to reach me **jogaraokorrayi107@gmail.com**
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Skills
 
 - **Languages:** Java, JavaScript
 - **Frameworks:** Spring Boot, ReactJS, Hibernate 
