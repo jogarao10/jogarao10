@@ -17,12 +17,11 @@
 
 ## 🛠️ Tech Skills
 
-- **Languages:** Java, JavaScript
-- **Frameworks:** Spring Boot, ReactJS, Hibernate 
+- **Languages:** Java
+- **Frameworks:** Spring, Spring Boot, Hibernate 
 - **Frontend:** HTML, CSS
 - **Database:** ORACLE/SQL, JDBC
-- **API :** Rest API
-- **Devops :** AWS, CI/CD, Docker, Kubernetes 
+- **Devops :** AWS, CI/CD 
 - **Version Control:** Git
 
 <h3 align="left">Connect with me:</h3>
