@@ -18,7 +18,8 @@
 ## 🛠️ Tech Skills
 
 - **Languages:** Java
-- **Frameworks:** Spring, Spring Boot, Hibernate, React-JS ,Micro Services
+- **Technologies:** JDBC, Servlets
+- **Frameworks:** Spring, Spring Boot, Hibernate
 - **Frontend:** HTML, CSS
 - **Database:** ORACLE/SQL, MySQL JDBC
 - **Devops :** AWS, CI/CD 
