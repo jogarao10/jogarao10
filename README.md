@@ -20,7 +20,7 @@
 - **Languages:** Java
 - **Technologies:** JDBC, Servlets
 - **Frameworks:** Spring, Spring Boot, Hibernate
-- **Frontend:** HTML, CSS
+- **Frontend:** HTML, CSS, JavaScript, React
 - **Database:** ORACLE/SQL, MySQL JDBC
 - **Devops :** AWS, CI/CD 
 - **Version Control:** Git
