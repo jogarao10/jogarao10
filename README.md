@@ -1,29 +1,30 @@
 <h1 align="center">Hi 👋, I'm Jogarao Korrayi</h1>
 <!-- <div align="center"> <img src="https://github.com/jogarao10/myprofile/blob/main/java1.jpg"> </div> -->
-<h3 align="center">I am a passionate full stack developer, I have completed my full stack java developer training.</h3>
+<h3 align="center">I am a passionate full stack Java web developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jogarao10&label=Profile%20views&color=0e75b6&style=flat" alt="jogarao10" /> </p>
 
-- 🚀 Passionate Full Stack Java Developer | Fresher 💻
+- 🚀 Passionate Full Stack Java web Developer 💻
 - 🌟 Recent Graduate | Computer Science and Engineering 🎓
 - 👨‍💻 Eager to contribute to innovative projects and collaborate with like-minded developers.
 - 🌐 Continuous learner with a strong foundation in Full Stack Development.
 - 🚀 Excited about building scalable and robust applications.
-- 💬 Ask me about **Full Stack Java Development**
+- 💬 Ask me about **Full Stack Java Web Development**
 - 👨‍💻 All of my projects are available at [https://github.com/jogarao10]
 - 📫 How to reach me **jogaraokorrayi107@gmail.com**
 
 ## 🛠️ Tech Skills
 
 - **Languages:** Java
-- **Technologies:** JDBC, Servlets
-- **Frameworks:** Spring, Spring Boot, Hibernate
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Database:** ORACLE/SQL, MySQL JDBC
-- **Devops :** AWS, CI/CD 
-- **Version Control:** Git
+- **Technologies:** JDBC, Servlets, Jsp
+- **Frameworks:** Spring, Spring Boot, Hibernate, Micro Services
+- **Frontend:** HTML, CSS, JavaScript, React-Js
+- **Database:** ORACLE/SQL, MySQL
+- **Devops :** AWS, Jenkins
+- **Version Control:** Git,Github
+- **Tools : ** Maven, Docker, K8
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
