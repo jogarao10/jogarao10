@@ -7,8 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jogarao10&label=Profile%20views&color=0e75b6&style=flat" alt="jogarao10" /> </p>
 
 - 🚀 Passionate Full Stack Java web Developer 💻
-- 🌟 Recent Graduate | Computer Science and Engineering 🎓
-- 👨‍💻 Eager to contribute to innovative projects and collaborate with like-minded developers.
+- 🌟 Computer Science and Engineering 🎓
 - 🌐 Continuous learner with a strong foundation in Full Stack Development.
 - 🚀 Excited about building scalable and robust applications.
 - 💬 Ask me about **Full Stack Java Web Development**
