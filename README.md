@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jogarao Korrayi</h1>
 <!-- <div align="center"> <img src="https://github.com/jogarao10/myprofile/blob/main/java1.jpg"> </div> -->
-<h3 align="center">I am a passionate full stack Java web developer</h3>
+<h3 align="center">I am full stack Java web developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
