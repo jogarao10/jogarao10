@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jogarao Korrayi</h1>
+<h1 align="center">Hi 👋, I'm Korrayi Jogarao</h1>
 <!-- <div align="center"> <img src="https://github.com/jogarao10/myprofile/blob/main/java1.jpg"> </div> -->
-<h3 align="center">I am full stack Java web developer</h3>
+<h3 align="center">I am Java web developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -17,17 +17,17 @@
 ## 🛠️ Tech Skills
 
 - **Languages:** Java
-- **Technologies:** JDBC, Servlets, Jsp
+- **Technologies:** J2EE (JDBC, Servlets, Jsp)
 - **Frameworks:** Spring, Spring Boot, Hibernate, Micro Services
 - **Frontend:** HTML, CSS, JavaScript, React-Js
 - **Database:** ORACLE/SQL, MySQL
-- **Devops :** AWS, Jenkins
+- **Devops :** AWS, CI/CD
 - **Version Control:** Git,Github
-- **Tools : ** Maven, Docker, K8
+- **Tools : ** Maven, Docker
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jogarao-korrayi-87792222a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jogarao-korrayi-87792222a/" height="30" width="40" />Jogarao Korrayi</a>
+<a href="https://www.linkedin.com/in/jogarao-korrayi-87792222a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jogarao-korrayi-87792222a/" height="30" width="40" />Korrayi Jogarao</a>
 </p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jogarao10&show_icons=true&locale=en&layout=compact" alt="jogarao10" /></p>
