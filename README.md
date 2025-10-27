@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jogarao10&label=Profile%20views&color=0e75b6&style=flat" alt="jogarao10" /> </p>
 
-- 🚀 Passionate Full Stack Java web Developer 💻
+- 🚀 Passionate Java web Developer 💻
 - 🌟 Computer Science and Engineering 🎓
-- 🌐 Continuous learner with a strong foundation in Full Stack Development.
+- 🌐 Strong foundation in Full Stack Development.
 - 🚀 Excited about building scalable and robust applications.
-- 💬 Ask me about **Full Stack Java Web Development**
+- 💬 Ask me about **Java Web Development**
 - 👨‍💻 All of my projects are available at [https://github.com/jogarao10]
 - 📫 How to reach me **jogaraokorrayi107@gmail.com**
 
